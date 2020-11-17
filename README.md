@@ -13,7 +13,7 @@ Sou a Jessica:wink: fascinada por artes, tecnologia e pessoas. Adoro boardgame, 
 
 :zap: Front-End Developer 
 
-Stack 🔧
+Stack: 🔧
 - HTML / CSS
 - JavaScript
 - React / NextJS
@@ -24,11 +24,10 @@ Stack 🔧
 - Perfomance
 - GraphQL
 -  Python, apenas uso como uma linguagem de script, envolvendo Anaconda e Pandas
-- C
+- C 
 
 
 ### Contato
 
 - [Medium](https://medium.com/@jessica.leute)
 - [LinkeDin](https://www.linkedin.com/in/jezzpan/) <br>
-📫  jessica.leute@gmail.com
