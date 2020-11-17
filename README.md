@@ -1,5 +1,4 @@
 # Olá, eu sou a Jessica :crown:
-:fist: ela/she/her 
 
 Sou a Jessica:wink: fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
  
