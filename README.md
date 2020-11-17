@@ -4,9 +4,9 @@
 Sou a Jessica:wink: fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
  
 ## Meus valores:
-🌟 Comunicação e empatia
-:eyes: Confiança e respeito ao espaço individual
-🌱 Curiosidade e questionamentos
+🌟 Comunicação e empatia <br>
+:eyes: Confiança e respeito ao espaço individual <br>
+🌱 Curiosidade e questionamentos <br>
 🙌 Compreensão e consenso compartilhados
 
 ### Como e com o que eu trabalho: 
@@ -30,5 +30,5 @@ Stack 🔧
 ### Contato
 
 - [Medium](https://medium.com/@jessica.leute)
-- [LinkeDin](https://www.linkedin.com/in/jezzpan/)
+- [LinkeDin](https://www.linkedin.com/in/jezzpan/) <br>
 📫  jessica.leute@gmail.com
