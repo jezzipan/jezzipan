@@ -3,7 +3,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP sou fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
  
-## Meus valores:
+### Meus valores:
 🌟 Comunicação e empatia <br>
 :eyes: Confiança e respeito ao espaço individual <br>
 🌱 Curiosidade e questionamentos <br>
