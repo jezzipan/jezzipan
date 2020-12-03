@@ -1,6 +1,7 @@
-# Olá, eu sou a Jessica :crown:
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou Jessica!
+:zap: Front-End Developer 
 
-Sou a Jessica:wink: fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
+fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
  
 ## Meus valores:
 🌟 Comunicação e empatia <br>
@@ -9,8 +10,6 @@ Sou a Jessica:wink: fascinada por artes, tecnologia e pessoas. Adoro boardgame, 
 🙌 Compreensão e consenso compartilhados
 
 ### Como e com o que eu trabalho: 
-
-:zap: Front-End Developer 
 
 Stack: 🔧
 - HTML / CSS
@@ -27,6 +26,4 @@ Stack: 🔧
 
 
 ### Contato
-
-- [Medium](https://medium.com/@jessica.leute)
-- [LinkeDin](https://www.linkedin.com/in/jezzpan/) <br>
+- [LinkeDin](https://www.linkedin.com/in/jezzpan/)
