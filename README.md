@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou Jessica!
 :zap: Front-End Developer 
 
-fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP sou fascinada por artes, tecnologia e pessoas. Adoro boardgame, danças e artes marciais. Como pessoa desenvolvedora e eterna estudante, atuo na coloboração do desenvolvimento de aplicações web. 😸
  
 ## Meus valores:
 🌟 Comunicação e empatia <br>
